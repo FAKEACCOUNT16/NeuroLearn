@@ -1,0 +1,17 @@
+CPP SYNTAX : PRINT/INPUT FUNCTION , IF/ELSE, LOOPS, FUNCTIONS
+
+Arrays :
+
+More Questions to Practice - 450
+
+DONE
+1. Searching algo : 
+-> Linear Search : Traverse over the loop  
+-> Binary Search : Calculate Mid by taking 0th idx as start and nth idx as end
+
+2. Sorting Algo:
+-> Selection Sort
+-> Bubble Sort 
+-> Insertion Sort
+
+3. Matrix - Remaining
