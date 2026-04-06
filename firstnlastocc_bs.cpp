@@ -31,7 +31,6 @@ int firstOcc(int arr[], int size, int key) {
 
 }
 
-
 int lastOcc(int arr[], int size, int key) {
 
     int s = 0;
