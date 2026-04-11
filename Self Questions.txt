@@ -14,3 +14,10 @@ Explanation: Sorting matrix elements gives us [1, 2, 3, 3, 5, 6, 6, 9, 9]. Hence
 //  2 12 1 -> 15
 //  7 8 7 -> 22 
 for rows and column 
+
+4. Spiral Print (54 leetcode)
+
+ // 1 2 3 
+ // 4 5 6
+ // 7 8 9 
+ print : 1 2 3 6 9 8 7 4 5
