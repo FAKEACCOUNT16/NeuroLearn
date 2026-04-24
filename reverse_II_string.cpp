@@ -14,8 +14,6 @@ void reverse(string &str){
 }
 
 
-
-
 int main(){
 
     string str;
