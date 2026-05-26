@@ -3,6 +3,8 @@
 //Access modifier : To get access of Properties -> (1. Public, 2. Private(by default), 3. Protected)
 //File handling : Just create Hero.cpp (Class name) and to access the property of class create main function in new file and must include this statement(#include "Hero.cpp")
 // Getter and Setter : To access the Private values from Private Properties of Class
+// Padding : Extra bytes added for alignment
+
 
 #include<iostream>
 using namespace std;
@@ -43,6 +45,7 @@ int main(){
     Hero paul;
 
     //assigning values for properties (public)
+    // Static allocation
     paul.level = 'A';
     cout << "Health is : " << paul.level << endl; //for public property
 
