@@ -20,7 +20,6 @@ void delete2DArray(int **arr, int rows){
     delete[] arr;
 }
 
-
 // Input or Filling an array
 void fillArray(int **arr, int rows, int cols){
     for(int i = 0; i < rows; i++){

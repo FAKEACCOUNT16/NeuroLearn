@@ -10,6 +10,7 @@
 using namespace std;
 
 // creation of class
+// Class Hero is encapsulated 
 class Hero{
 
     //properties
