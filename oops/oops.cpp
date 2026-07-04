@@ -29,7 +29,7 @@ class Hero{
         return level;
     }
 
-    //  Getter : To set the Private value
+    //  Setter : To set the Private value
     void setHealth(int h){
         health = h;
     }
@@ -48,7 +48,7 @@ int main(){
     //assigning values for properties (public)
     // Static allocation
     paul.level = 'A';
-    cout << "Health is : " << paul.level << endl; //for public property
+    cout << "level is : " << paul.level << endl; //for public property
 
     //assigning and printing values for properties (private)
     // using getter
